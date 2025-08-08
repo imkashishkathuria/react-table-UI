@@ -1,0 +1,47 @@
+[
+    {
+        "human_user":"Foo Bar1",
+        "create_date":"Oct 1 2020",
+        "password_changed_date":"Oct 1 2021",
+        "days_since_last_password_changed":"2030",
+        "last_access_date":"Jan 4 2025",
+        "days_since_last_access":"54",
+        "mfa_enabled":"yes"
+    },
+    {
+        "human_user":"Foo Bar1",
+        "create_date":"Sep 20 2019",
+        "password_changed_date":"Sep 22 2019",
+        "days_since_last_password_changed":"1985",
+        "last_access_date":"Feb 8 2025",
+        "days_since_last_access":"19",
+        "mfa_enabled":"no"
+    },
+    {
+        "human_user":"Foo Bar2",
+        "create_date":"Feb 3 2022",
+        "password_changed_date":"Feb 3 2022",
+        "days_since_last_password_changed":"1095",
+        "last_access_date":"Feb 12 2025",
+        "days_since_last_access":"15",
+        "mfa_enabled":"no"
+    },
+    {
+        "human_user":"Foo Bar3",
+        "create_date":"Mar 7 2023",
+        "password_changed_date":"Mar 10 2023",
+        "days_since_last_password_changed":"720",
+        "last_access_date":"Jan 3 2022",
+        "days_since_last_access":"1151",
+        "mfa_enabled":"yes"
+    },
+    {
+        "human_user":"Foo Bar4",
+        "create_date":"Apr 8 2018",
+        "password_changed_date":"Apr 12 2020",
+        "days_since_last_password_changed":"1730",
+        "last_access_date":"Oct 4 2022",
+        "days_since_last_access":"870",
+        "mfa_enabled":"no"
+    }
+]
